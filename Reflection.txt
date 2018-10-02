@@ -1,0 +1,13 @@
+Use of version control
+
+Helps in finding differences. Provides insights on changes made by different autors. Correction and understanding in detail of code as part of analyizing differences.
+
+Why multiple behavior for git vs google docs
+
+The git keeps track of entire repository while google docs want to keep track of individual documents.
+While Project includes mulitple files, documents have information to be considered alone.
+
+git log used to find all the log information regarding differect commits.
+git diff to find difference between two successful commits.
+
+confident on if anything goes wrong, its easy to find the change
