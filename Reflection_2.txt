@@ -1,0 +1,5 @@
+Reflection on lesson 2
+
+Use of multiple git commands and trial runs
+
+Staging area provides much more control on files to be commited. Not all files in working area needs to be included in commit.
