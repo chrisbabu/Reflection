@@ -3,3 +3,10 @@ Reflection on lesson 2
 Use of multiple git commands and trial runs
 
 Staging area provides much more control on files to be commited. Not all files in working area needs to be included in commit.
+
+Branch allows new feature development without risking the existing stable application
+
+Visualization of branches provides info on missed out commits
+
+Automatic commits would result in confusion as git is unaware on which code changes to commit. Resolving manual commit helps
+identifying important line of codes that has to be changed.
